@@ -1,0 +1,21 @@
+{
+    "name": "soswapp/font-awesome.soswapp",
+    "description": "Font Awesome for 7 OS Web",
+    "keywords": ["css","7","seven","os","web","font", "awesome"],
+    "homepage": "https://github.com/soswapp/font-awesome.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {}
+}
